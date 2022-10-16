@@ -1,0 +1,23 @@
+h1 {
+  color: orange;
+  text-align: left;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+a {
+  color: brown;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+  font-size: large;
+}
+
+li {
+  line-height: 10px;
+}
