@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: #441a4a;
+  text-align: left;
+}
+
+a {
+  color: rgb(155, 86, 86);
+  font-style: oblique;
+  font-weight: lighter;
+}
+
+ul {
+  font-size: small;
+}
+
+li {
+  line-height: 100px;
+}
